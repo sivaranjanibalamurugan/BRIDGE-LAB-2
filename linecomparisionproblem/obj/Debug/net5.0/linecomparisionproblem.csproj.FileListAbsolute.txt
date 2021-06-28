@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\bin\Debug\net5.0\linecomparisionproblem.exe
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\bin\Debug\net5.0\linecomparisionproblem.deps.json
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\bin\Debug\net5.0\linecomparisionproblem.runtimeconfig.json
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\bin\Debug\net5.0\linecomparisionproblem.runtimeconfig.dev.json
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\bin\Debug\net5.0\linecomparisionproblem.dll
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\bin\Debug\net5.0\ref\linecomparisionproblem.dll
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\bin\Debug\net5.0\linecomparisionproblem.pdb
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\linecomparisionproblem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\linecomparisionproblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\linecomparisionproblem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\linecomparisionproblem.AssemblyInfo.cs
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\linecomparisionproblem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\linecomparisionproblem.dll
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\ref\linecomparisionproblem.dll
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\linecomparisionproblem.pdb
+C:\Users\user\source\repos\linecomparisionproblem\linecomparisionproblem\obj\Debug\net5.0\linecomparisionproblem.genruntimeconfig.cache
