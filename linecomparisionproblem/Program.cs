@@ -4,6 +4,7 @@ namespace linecomparisionproblem
 {
     class Program
     {
+        const int EQUALITY = 0;
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to line comparison computation program");
@@ -14,6 +15,7 @@ namespace linecomparisionproblem
             int[] y1 = new int[2];
             int[] x2 = new int[2];
             int[] y2 = new int[2];
+            int cmpLine;
 
             for (int line = 0; line <= 1; line++)
             {
@@ -27,19 +29,23 @@ namespace linecomparisionproblem
             double line1Length = Program.LineLength(x1[0], y1[0], x2[0], y2[0]);
             double line2Length = Program.LineLength(x1[1], y1[1], x2[1], y2[1]);
             Console.WriteLine("Welcome to Line Comparison Computation");
+            cmpLine = line2Length.CompareTo(line1Length);
 
-            //Checking whether two lines are equal or not
-            if (line1Length.Equals(line2Length))
+            //Comparing two lines 
+            if (cmpLine > EQUALITY)
             {
-                Console.WriteLine("Two lines are Equal");
+                Console.WriteLine("Line2 is greater than Line1");
+            }
+            else if (cmpLine < EQUALITY)
+            {
+                Console.WriteLine("Line1 is greater than Line2");
             }
             else
             {
-                Console.WriteLine("Two lines are not Equal");
+                Console.WriteLine("Two lines are Equal");
             }
             Console.Read();
         }
-
 
 
         //Calculating length of the line using LineLength method
